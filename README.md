@@ -1,2 +1,3 @@
 # Domaci2-Startit-HTML-CSS
-Domaci za drugi cas HTML/CSS kurs
+CSS ulepsana pesmica o kuci
+CSS ulepsan odlomak iz knjige

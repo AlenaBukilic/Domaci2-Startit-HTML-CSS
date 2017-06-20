@@ -1,0 +1,61 @@
+html {
+	font-family: 'Georgia' , serif;
+
+}
+
+.home {
+	background-color: #dbbd81;
+	background-image: url('book.png');
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+p {
+	font-family: 'Dancing Script', cursive;
+}
+
+
+.floating-box {
+	display: inline-block;
+    width: 450px;
+    height: 550px;
+    margin-left: 150px;
+    margin-top: 75px;
+    margin-bottom: 100px;
+
+}
+
+.author {
+	background-color: #dbbd81;
+	text-align: center;
+}
+
+img {
+	border-style: outset;
+	border-color: #db8a81;
+	border-radius: 50%;
+	}
+
+blockquote:hover {
+	color: rgba(4,3,5,0.2);
+}
+
+a:link {
+	color: #e0acf9;
+}
+a:visited {
+	color: #e88181;
+}
+
+
+h4, h3 {
+	color: rgba(0,0,0,0.2);
+}
+
+h2 {
+	font-size: 50px;
+}
+
+p:hover {
+	color: rgba(0,0,0,0.2);
+}
